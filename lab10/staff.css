@@ -1,0 +1,51 @@
+.name {
+    font-size:30px;
+    font-family: sans-serif;
+    color: rgb(233, 250, 78);
+    text-shadow: 5px 5px 5px rgb(43, 1, 1);
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    position: absolute;
+    text-align: center;
+}
+
+.photo {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin: 30px;
+    box-shadow: 15px 15px 50px black;
+    position: relative;
+}
+
+.photo:hover {
+    top:5px;
+    left: 5px;
+    box-shadow: 15px 15px 10px rgb(3, 122, 201);
+}
+
+#golfer1 {
+    background-image:url("https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_30925.png");
+    background-size:100% 100%;
+}
+
+#golfer2 {
+    background-image:url("https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_08793.png");
+    background-size:100% 100%;
+}
+
+#golfer3 {
+    background-image:url("https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_33448.png");
+    background-size:100% 100%;
+}
+
+#golfer4 {
+    background-image:url("https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_32102.png");
+    background-size:100% 100%;
+}
+
