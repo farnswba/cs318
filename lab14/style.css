@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+.full {
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+#tiger1 {
+    background-image: url(http://wallsdesk.com/wp-content/uploads/2016/07/Tiger-Woods-Sexy-Wallpapers.jpg);
+    background-repeat: no-repeat;
+}
+
+#tiger2 {
+    background-image: url(http://s.wsj.net/public/resources/MWimages/MW-BY041_tiger_MG_20140401141924.jpg);
+    background-repeat: no-repeat;
+   
+   
+    
+    
+    
+}
+
+#tiger3 {
+    background-image: url(https://pga-tour-res.cloudinary.com/image/upload/q_auto/v1/pgatour/editorial/2018/03/06/WoodsDriver-847-Getty.jpg);
+    background-repeat: no-repeat;
+       
+}
+
+body {
+    background-color: red;
+    color: white;
+    font-family: sans-serif;
+}
