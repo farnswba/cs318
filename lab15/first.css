@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+  }
+
+@media (max-width: 600px) {
+    .grandcanyon {
+        margin-bottom: 14px;
+        width: 100%;
+    }
+
+    .mars {
+        margin-bottom: 14px;
+        width: 100%;
+    }
+
+    .redwoods {
+        margin-bottom: 14px;
+        width: 100%;
+    }
+
+    .greencanyon {
+        margin-bottom: 14px;
+        width: 100%
+    }
+}
+
+.grandcanyon {
+    width: 380px;
+    height: auto;
+    float: left;
+    padding-right: 5px;
+}
+
+.mars {
+    width: 380px;
+    height: auto;
+    float: right;
+    padding-left: 5px;
+}
+
+
+.redwoods {
+    width: 380px;
+    height: auto;
+    float: left;
+    padding-right: 5px;
+}
+
+.greencanyon {
+    width: 380px;
+    height: auto;
+    float: right;
+    padding-left: 5px;
+}
+
+.box {
+    position: absolute;
+    height: auto;
+    width: 85px;
+    background-color: rgb(139, 53, 53);
+    color: gold;
+    border-radius: 9px;
+    opacity: .7;
+    padding: 2px;
+}
+
+.container1 {
+    position: relative;
+}
+
+.container2 {
+    position: relative;
+}
+
+.container3 {
+    position: relative;
+}
+
+.container4 {
+    position: relative;
+}
+
+#box1 {
+    left: 270px;
+    top: -8px;
+}
+
+#box2 {
+    right: 30px;
+    top: -8px;
+}
+
+#box3 {
+    left: 270px;
+    top: -8px;
+}
+
+#box4 {
+    right: 18px;
+    top: -4px;
+}
+
+
+
+
+
+
+
+
