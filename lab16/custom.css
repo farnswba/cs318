@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+td {
+    border: thin solid black;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: darkgrey;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.pic {
+    width: 100px;
+    height: 100px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}

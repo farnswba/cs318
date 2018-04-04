@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+}
+
+td {
+    border: thin solid black;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+th {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+
+
+table {
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+#eight {
+    background-color: black;
+    color: white;
+}
+
+#nine {
+    background-color: black;
+    color: white;
+}
+
+#ten {
+    background-color: black;
+    color: white;
+}
+
+#eleven {
+    background-color: black;
+    color: white;
+}
+
+#twelve {
+    background-color: black;
+    color: white;
+}
+
+#one {
+    background-color: black;
+    color: white;
+}
+
+#two {
+    background-color: black;
+    color: white;
+}
+
+#three {
+    background-color: black;
+    color: white;
+}
+
+#four {
+    background-color: black;
+    color: white;
+}
+
+#five {
+    background-color: black;
+    color: white;
+}
+
+#six {
+    background-color: black;
+    color: white;
+}
+
