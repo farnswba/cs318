@@ -293,4 +293,6 @@ footer {
 
 #motto {
     color: rgb(59, 179, 255);
+    font-style: italic;
+    font-weight: bold;
 }
